@@ -1,6 +1,1 @@
-## Projects
 
-# chiru
-
-**Automatic**
-* diamond *
