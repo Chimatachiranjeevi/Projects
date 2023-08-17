@@ -1,4 +1,6 @@
-# Projects
+## Projects
+
+# chiru
 
 **Automatic**
-*diamond*
+* diamond *
