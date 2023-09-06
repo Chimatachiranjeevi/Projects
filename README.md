@@ -6,7 +6,7 @@
        encoder servo motors for movement,laser sensor,proxy
        sensor,CV CAMERAS(feed back mechanism)**
 
-### MY TASK :
+## MY TASK :
  1) **In this project i have to assign GPIO for servo
 motors(rpm,angle),stepper motors,sensors) and writing the
 logic for which angle the servo should be start and stop by
@@ -17,5 +17,5 @@ communication the machine through communication
 protocols(UART,SPI,I2C), with the help of commands**
 3) **worked on EEPROM(I2C)**
 ## accomplishments : 
-- ADC,TIMERS, INTERRUPT
-  CONCEPTS AND applied in the project
+- **ADC,TIMERS, INTERRUPT
+  CONCEPTS AND applied in the project**
