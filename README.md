@@ -12,9 +12,9 @@ motors(rpm,angle),stepper motors,sensors) and writing the
 logic for which angle the servo should be start and stop by
 taking the feedback mechanism of encoders and sensors for
 cutting the perfect shape of diamond**
-2) controlling and
+2) **controlling and
 communication the machine through communication
-protocols(UART,SPI,I2C), with the help of commands
-3) worked on EEPROM(I2C)
+protocols(UART,SPI,I2C), with the help of commands**
+3) **worked on EEPROM(I2C)
 accomplishments : learned ADC,TIMERS, INTERRUPT
-CONCEPTS AND applied in the project
+CONCEPTS AND applied in the project**
